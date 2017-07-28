@@ -29,5 +29,4 @@ class Application extends BaseApplication
     {
         return self::$logo . parent::getHelp();
     }
-
 }
